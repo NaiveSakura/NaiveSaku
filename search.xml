@@ -1,152 +1,234 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title></title>
-      <link href="/2020/08/15/2020-08-51pcXiaoJiQiao%20/"/>
-      <url>/2020/08/15/2020-08-51pcXiaoJiQiao%20/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><ol><li>Ctrl + Shift + Esc 打开windows系统自带的任务管理器。也可以同时按住 Win + R 打开运行窗口，输入taskmgr回车，快速打开任务管理器。</li><li>Win + R 打开运行窗口，输入appwiz.cpl回车，快速打程序和功能控制面板</li><li>搜索技巧<br> ①排除关键词(减号+关键词)<br> 比如说：搜锤子而不是锤子手机，即为-手机<br> ②精确搜索(给关键词加引号)<br> 比如说：想搜小苹果，而不想是苹果，就“小苹果”<br> ③指定网站内搜索(site：域名 关键词)<br> 比如说在知乎里搜关于小苹果的内容，即为：site：zhihu.com 小苹果<br> 这个方法用于一些搜索引擎特别垃圾的资料网站 比如说中国裁判文书网<br> ④指定文件格式(filetype：文件格式 关键词)<br> 比如说filetype：pdf 张文显《法理学》<br> 包括doc，ppt，avi等格式<br> ⑤指定标题搜索(intitle：关键词)<br> 搜索的内容必须出现在标题里<br> 比如说：intitle：小苹果 那搜索出来的网页标题就都包括小苹果 不然就会出现一些内容才会出现小苹果的网页 信息检索就很费劲<br> ⑥⑦两种指定范围搜索(intext：/allintext：)(inurl：关键词)<br> intext是指如果输入intext：小苹果 那搜索出来的文章里面就必须有小苹果的内容<br> allintext是指搜索出来的内容必须有包括小苹果大苹果红苹果所有的内容<br> ⑧叠加使用<br> 注意事项：<pre><code> 1.所有的冒号都是半角，也就是英文的冒号，而不是中文的冒号 2.空格很重要，关键词之间要有空格 3.提取关键词很重要(可以提高搜索效率</code></pre></li></ol>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2020/07/28/hello-world/"/>
-      <url>/2020/07/28/hello-world/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>藏宝阁</title>
-      <link href="/2020/07/18/2020-7-18%20SHRE/"/>
-      <url>/2020/07/18/2020-7-18%20SHRE/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h4 id="视荐"><a href="#视荐" class="headerlink" title="视荐"></a>视荐</h4><h5 id="10-16-索何夫南大讲座"><a href="#10-16-索何夫南大讲座" class="headerlink" title="10.16 索何夫南大讲座"></a>10.16 索何夫南大讲座</h5><p>链接：<a href="https://pan.baidu.com/s/1fwogBYnrzrZ-ozsN4-1i2w" target="_blank" rel="noopener">https://pan.baidu.com/s/1fwogBYnrzrZ-ozsN4-1i2w</a><br>提取码：mb7o</p><h5 id="高岭之花"><a href="#高岭之花" class="headerlink" title="高岭之花"></a>高岭之花</h5><p>链接：<a href="https://pan.baidu.com/s/1u1csNvxein02eYlbOuiqSQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1u1csNvxein02eYlbOuiqSQ</a><br>提取码：exs2</p><h5 id="安东尼奥尼-中国1972"><a href="#安东尼奥尼-中国1972" class="headerlink" title="安东尼奥尼-中国1972"></a>安东尼奥尼-中国1972</h5><p>链接：<a href="https://pan.baidu.com/s/1yHioX8FBIRBRNoMT9D8Kxg" target="_blank" rel="noopener">https://pan.baidu.com/s/1yHioX8FBIRBRNoMT9D8Kxg</a><br>提取码：s6rp </p><h5 id="白色巨塔"><a href="#白色巨塔" class="headerlink" title="白色巨塔"></a>白色巨塔</h5><p>链接：<a href="https://pan.baidu.com/s/1YOZjXCacFG5NALEZnAvmwA" target="_blank" rel="noopener">https://pan.baidu.com/s/1YOZjXCacFG5NALEZnAvmwA</a><br>提取码：xpd6</p><h5 id="穹顶之下"><a href="#穹顶之下" class="headerlink" title="穹顶之下"></a>穹顶之下</h5><p>链接：<a href="https://pan.baidu.com/s/1JZ1RSXg2-u5GEZ_7iLVW9A" target="_blank" rel="noopener">https://pan.baidu.com/s/1JZ1RSXg2-u5GEZ_7iLVW9A</a><br>提取码：t3g5</p><h4 id="软件分享"><a href="#软件分享" class="headerlink" title="软件分享"></a>软件分享</h4><h5 id="office2010"><a href="#office2010" class="headerlink" title="office2010"></a>office2010</h5><p>链接：<a href="https://pan.baidu.com/s/1fQ8zoLgjKHT66OiTgaHa_g" target="_blank" rel="noopener">https://pan.baidu.com/s/1fQ8zoLgjKHT66OiTgaHa_g</a><br>提取码：tog2</p><h5 id="红笔题库"><a href="#红笔题库" class="headerlink" title="红笔题库"></a>红笔题库</h5><p>链接：<a href="https://pan.baidu.com/s/1HI9yWzs_gYF5VjnUOCytgg" target="_blank" rel="noopener">https://pan.baidu.com/s/1HI9yWzs_gYF5VjnUOCytgg</a><br>提取码：iibi</p><h4 id="教学视频分享"><a href="#教学视频分享" class="headerlink" title="教学视频分享"></a>教学视频分享</h4><h5 id="小黑2019年9月份全程班整理版二级office"><a href="#小黑2019年9月份全程班整理版二级office" class="headerlink" title="小黑2019年9月份全程班整理版二级office"></a>小黑2019年9月份全程班整理版二级office</h5><p>链接：<a href="https://pan.baidu.com/s/1o1xZ2wI2xY5KiDPoUJK8dA" target="_blank" rel="noopener">https://pan.baidu.com/s/1o1xZ2wI2xY5KiDPoUJK8dA</a><br>提取码：jsfb </p><h5 id="CDA数据分析就业班29期"><a href="#CDA数据分析就业班29期" class="headerlink" title="CDA数据分析就业班29期"></a>CDA数据分析就业班29期</h5><p>链接：<a href="https://pan.baidu.com/s/1cXZBd5dX_QVduOxcPX8FoQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1cXZBd5dX_QVduOxcPX8FoQ</a><br>提取码：zmly </p><h5 id="用Power-MapPivot玩转数据化运营"><a href="#用Power-MapPivot玩转数据化运营" class="headerlink" title="用Power MapPivot玩转数据化运营"></a>用Power MapPivot玩转数据化运营</h5><p>链接：<a href="https://pan.baidu.com/s/16HFhmysMHRQ5yKGoxI_Beg" target="_blank" rel="noopener">https://pan.baidu.com/s/16HFhmysMHRQ5yKGoxI_Beg</a><br>提取码：kyrp </p><h4 id="书荐"><a href="#书荐" class="headerlink" title="书荐"></a>书荐</h4><ul><li>《定本酒田战法》（日）林辉太郎；</li><li>《行情之神本间宗久翁秘录》 （日）森生文乃；</li><li>《日本蜡烛图技术》（美）史蒂·夫尼森 ；</li><li>《趋势交易》（美）安德烈亚斯 F. 克列诺；</li><li>《外汇交易的10堂必修课》（美）马丁·内斯；</li><li>《外汇交易：高手训练营》 （美）埃德·蓬西；</li><li>《高胜算操盘》 （美）马塞尔·林克；</li><li>《专业投机原理》（美）维克托·斯波朗迪；</li><li>《大投机家：八十年投机交易回忆录》（德）安德烈·科斯托拉尼</li><li>《漫步华尔街》 伯顿·马尔基尔</li><li>《股市长线法宝》（Stocks for the Long Run）杰里米.j.西格尔，沃顿金融学教授</li><li>《投资者的未来》（The Future for investors）  杰里米.j.西格尔，沃顿金融学教授</li><li>《战胜华尔街》（Beating the street）彼得林奇</li><li>《投资心理学》（The psychology of Investing）John R,Nofsinger</li><li>《黑天鹅》和《反脆弱》纳西姆.尼古拉斯.塔勒布</li><li>《大国大城》陆铭</li><li>《经济学原理》张维迎</li><li>《吴晓波企业史》</li><li>《期货市场技术分析》</li><li>《股票作手回忆录》</li><li>《笑傲股市》</li><li>《人间失格》</li><li>白银：《 Javascript高级程序设计》</li><li>铂金：《ES6标准入门》</li><li>砖石：《你不知道的JS》</li><li>1368个单词就够了 王乐平<h4 id="软荐"><a href="#软荐" class="headerlink" title="软荐"></a>软荐</h4>猎影下载器 vivaldi 知之阅读   fences   NoteExpress   Gingko   iA writter   Lightkey Business Edition   smart pdf    Fiddler   wireshark    WIN10 manager     Quicker   Cute Http File Server     handshaker    冰点下载<h4 id="研荐"><a href="#研荐" class="headerlink" title="研荐"></a>研荐</h4><h5 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h5><h6 id="数学一、二、三复习用书"><a href="#数学一、二、三复习用书" class="headerlink" title="数学一、二、三复习用书"></a>数学一、二、三复习用书</h6>高数:武忠祥、张宇（基础好）、汤家凤（基础差）<br>  高数教材：《高等数学》——同济⑦版；<br>线代:李永乐<br>  线代教材：《线性代数》——同济⑥版；<br>概率论:方浩、余丙森、王式安<br>  概率教材：《概率论与数理统计》——浙大④版<br>  复习全书类（强化用)推荐：<pre><code>  《数学复习全书》——李永乐+王式安；  《线性代数辅导讲义》——李永乐；  《考研数学复习大全》——汤家凤  《高数18讲》——张宇  《复习全书》——李正元+范培华  《复习指南》——陈文灯+黄先开</code></pre>  真题、习题、模拟题类（强化+冲刺用）：<br>  搭配强化课用<pre><code>  李永乐+王式安《数学基础过关660题》  张宇《考研数学题源探析经典1000题》　  汤家凤《考研数学接力题典1800题》</code></pre>  真题类：<pre><code>  《数学历年真题解析》——李永乐+王式安；  《考研数学历年真题全解析》——汤家凤  《考研数学历年真题大全解》——张宇</code></pre>  模拟类：<pre><code>  《终极预测最后八套卷》——张宇；  《最后四套卷》——张宇；  《汤家凤绝对考场最后八套题》——汤家凤；  《合工大最后5套题》——合工大；  《李永乐数学决胜冲刺6+2》——李永乐</code></pre>  复习全书最少刷2遍<br>  对于冲刺阶段刷题可以选择基础过关660题,接力题典1800题，张宇6套卷，4套卷。<h5 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h5>  7月份到11月之前，徐涛强化班＋精讲精练（或核心考案）<br>  肖秀荣老师，最后的点睛班和面授班<br>  1000题要做两遍以上(每看完一章视频做一章题)<br>  11月初出版肖8，可以当做检验一下选择题，以及选择题的预测<br>  12月初出版肖4，背<br>  政治复习用书<pre><code>  复习全书类（基础+强化用）最为推荐的依次有：      肖秀荣《考研政治命题人知识点精讲精练》      徐涛《政治核心考案》      蒋中挺《考研思想政治理论复习全书》      徐之明《考研思想政治理论红宝书》      思想政治理论考试大纲解析  真题类（全程用）最为推荐的依次有：      《命题人讲真题》——肖秀荣；      《历年真题详解》——蒋中挺；      《历年真题标准解析》——高教社；      《历年真题解析及复习思路》——石磊；      《真题精解》——任汝芬  训练类（强化用）最为推荐的依次有：      肖秀荣《命题人1000题》      徐涛《通关优题库习题版》      腿姐《刷题计划》      蒋中挺《考研思想政治理论强化通关800题》      任燕翔《考研政治强化特训1200题》      王吉《考研思想政治必刷1500题》   背诵宝典类（冲刺用）最为推荐的依次有：      《主观题应试宝典》—任燕翔      《肖秀荣考点预测背诵版》      《肖秀荣知识点提要》      《考研政治冲刺笔记》—徐涛      《风中劲草核心考点》—杨杰      《冲刺背诵手册》—腿姐      《冲刺考点必备》—蒋中挺      《命题人形式与政策以及当代世界经济与政治》—肖秀荣      《考研思想政治理论形势与政策热点剖析及命题预测》—蒋中挺      《形式与政策大预测》—米鹏  最后预测题类（押题类）最为推荐的依次有：      《肖秀荣最后8套卷》      《肖秀荣最后4套卷》      《命题人终极八套卷》—徐涛      《考研政治考前预测必备20题》（小黄书）—徐涛      《考研政治冲刺预测4套卷》—腿姐      《考前预测4套卷》—任燕翔      《冲刺模拟6套卷》—米鹏      《考研政治绝对考场最后五套题》—蒋中挺      启航的20天20题</code></pre><h5 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h5>基础阶段背单词+理解长难句<br>推荐词汇书《红宝书》、《十天搞定考研词汇》<br>长难句:老蒋、刘晓燕、唐迟<h6 id="英语一复习用书"><a href="#英语一复习用书" class="headerlink" title="英语一复习用书"></a>英语一复习用书</h6></li></ul><ol><li><p>单词类（全程用）最为推荐的依次有：<br>《何凯文1575必考词汇突破全书》——何凯文；<br>《恋练5500》——朱伟；<br>《新东方考研英语词汇词根+联想记忆法》——新东方，有两种，红色和绿色，分别为顺序和乱序的；<br>《刘一男考研词汇5500词》——刘一男；<br>《考研英语词汇红宝书》——西北大学出版社；<br>《星火单词系列》——星火英语；</p></li><li><p>记单词软件推荐的有：<br>墨墨背单词，百词斩；扇贝；开心词场</p></li><li><p>真题类（强化用）最为推荐的依次有<br>《张剑黄皮书真题系列》——张剑；<br>《何凯文历年真题全解析》——何凯文；<br>《考研英语历年真题详解及复习指南》——新东方<br>《考研真相》——西北大学出版社；<br>《陈正康真题超精读》——陈正康；<br>《考研英语历年真题超精解》——丁晓钟</p></li><li><p>阅读类最为推荐的依次有：<br>《张剑黄皮书阅读150篇》——张剑；<br>《何凯文英语阅读思路解析》——何凯文；<br>《考研英语同源阅读80篇》——陈正康；</p></li><li><p>作文类（强化+冲刺用）最为推荐的依次有：<br>《考研英语写作高分攻略》——何凯文；<br>《王江涛写作辅导系列》——王江涛；<br>《张剑黄皮书写作系列》——张剑；<br>《考研英语写作通关66篇》——高教版，陈正康主编；<br>《考研英语写作160篇》——西北大学出版社</p><h6 id="英语二复习用书-可参考英语一的用）"><a href="#英语二复习用书-可参考英语一的用）" class="headerlink" title="英语二复习用书(可参考英语一的用）"></a>英语二复习用书(可参考英语一的用）</h6></li><li><p>单词类最为推荐的依次有：<br>单词类最为推荐的参考书和软件同英语一，外加《老蒋绿皮书讲词汇》</p></li><li><p>真题类最为推荐的依次有：<br>《老蒋绿皮书讲真题》——蒋军虎；<br>《张剑黄皮书真题系列》——张剑；<br>《考研英语历年真题超精解》——丁晓钟</p></li><li><p>阅读类最为推荐的依次有：<br>《高分阅读老蒋80篇》——蒋军虎；<br>《张剑黄皮书阅读150篇》——张剑；<br>《考研英语同源阅读80篇》——陈正康</p></li><li><p>作文类最为推荐的依次有：<br>《老蒋绿皮书讲作文》——蒋军虎；<br>《张剑黄皮书写作系列》——张剑；<br>《考研英语写作通关66篇》——高教版，陈正康<br> 单词网课推荐朱伟老师;<br> 阅读网课推荐唐迟;<br> 语法和长难句说下推荐田静和刘晓燕，侧重于刘晓燕;<br> 翻译网课推荐唐静，注重翻译重点与关键;<br> 作文网课推荐有王江涛，张国静,朱伟作文辞藻华丽，水平很高，实战考研用的比较多，不建议完全背诵，学习写作套路即可，商志最后的一对一模板，每年价格500到600左右，可以留作最后的参考。<br> 商志，英语一二通吃的老师，课很细很细，干货超多，他的传奇背词班，覆盖单词，语法，写作，很适合基础很差的学生学习，建议就是下载下来倍速播放，做好笔记，干货很多。</p><p> 书籍：</p><pre><code> 词汇：推荐绿皮书，红宝书，恋恋有词; 真题：推荐黄皮书，考研真想，考研圣经</code></pre></li></ol><p>建议基础学习内容：linux、kali linux以及系统漏洞和脚本安全的深入了解。<br>建议编程学习内容：PHP、python。<br>渗透测试知识技术说多不多，学来学去就是那么多东西，说少也不少，各方面都要学习，重要的是思路的扩展升级。强烈建议每一种漏洞在各种环境下反复试验增加记忆和熟练度。<br>简单概括下来有：信息安全（建议深入学习社会工程学、密码学），系统安全，应用安全目前流行的是防火墙waf的绕过，内网安全的渗透与防御，CTF红蓝的练习，黑盒白盒测试环境的思路极为重要。<br>2020年了不再是一眼能看出的简单漏洞了，若是传统性的进行渗透测试，那么自身是提高不了多少的。网络上的课程大同小异教程里都是基本操作登不上大雅之堂，自己闷头苦学苦思只会落后，跟上时代的发展，多去找大佬学习交流，或者到知名培训机构修炼渡劫。 </p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title></title>
+    <url>/2020/08/15/pcXiaoJiQiao%20/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><ol>
+<li>Ctrl + Shift + Esc 打开windows系统自带的任务管理器。也可以同时按住 Win + R 打开运行窗口，输入taskmgr回车，快速打开任务管理器。</li>
+<li>Win + R 打开运行窗口，输入appwiz.cpl回车，快速打程序和功能控制面板</li>
+<li>搜索技巧<br> ①排除关键词(减号+关键词)<br> 比如说：搜锤子而不是锤子手机，即为-手机<br> ②精确搜索(给关键词加引号)<br> 比如说：想搜小苹果，而不想是苹果，就“小苹果”<br> ③指定网站内搜索(site：域名 关键词)<br> 比如说在知乎里搜关于小苹果的内容，即为：site：zhihu.com 小苹果<br> 这个方法用于一些搜索引擎特别垃圾的资料网站 比如说中国裁判文书网<br> ④指定文件格式(filetype：文件格式 关键词)<br> 比如说filetype：pdf 张文显《法理学》<br> 包括doc，ppt，avi等格式<br> ⑤指定标题搜索(intitle：关键词)<br> 搜索的内容必须出现在标题里<br> 比如说：intitle：小苹果 那搜索出来的网页标题就都包括小苹果 不然就会出现一些内容才会出现小苹果的网页 信息检索就很费劲<br> ⑥⑦两种指定范围搜索(intext：/allintext：)(inurl：关键词)<br> intext是指如果输入intext：小苹果 那搜索出来的文章里面就必须有小苹果的内容<br> allintext是指搜索出来的内容必须有包括小苹果大苹果红苹果所有的内容<br> ⑧叠加使用<br> 注意事项：<pre><code> 1.所有的冒号都是半角，也就是英文的冒号，而不是中文的冒号
+ 2.空格很重要，关键词之间要有空格
+ 3.提取关键词很重要(可以提高搜索效率</code></pre></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/07/28/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>藏宝阁</title>
+    <url>/2020/07/18/zeroseveneigtheen%20SHRE/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h4 id="视荐"><a href="#视荐" class="headerlink" title="视荐"></a>视荐</h4><h5 id="10-16-索何夫南大讲座"><a href="#10-16-索何夫南大讲座" class="headerlink" title="10.16 索何夫南大讲座"></a>10.16 索何夫南大讲座</h5><p>链接：<a href="https://pan.baidu.com/s/1fwogBYnrzrZ-ozsN4-1i2w" target="_blank" rel="noopener">https://pan.baidu.com/s/1fwogBYnrzrZ-ozsN4-1i2w</a><br>提取码：mb7o</p>
+<h5 id="高岭之花"><a href="#高岭之花" class="headerlink" title="高岭之花"></a>高岭之花</h5><p>链接：<a href="https://pan.baidu.com/s/1u1csNvxein02eYlbOuiqSQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1u1csNvxein02eYlbOuiqSQ</a><br>提取码：exs2</p>
+<h5 id="安东尼奥尼-中国1972"><a href="#安东尼奥尼-中国1972" class="headerlink" title="安东尼奥尼-中国1972"></a>安东尼奥尼-中国1972</h5><p>链接：<a href="https://pan.baidu.com/s/1yHioX8FBIRBRNoMT9D8Kxg" target="_blank" rel="noopener">https://pan.baidu.com/s/1yHioX8FBIRBRNoMT9D8Kxg</a><br>提取码：s6rp </p>
+<h5 id="白色巨塔"><a href="#白色巨塔" class="headerlink" title="白色巨塔"></a>白色巨塔</h5><p>链接：<a href="https://pan.baidu.com/s/1YOZjXCacFG5NALEZnAvmwA" target="_blank" rel="noopener">https://pan.baidu.com/s/1YOZjXCacFG5NALEZnAvmwA</a><br>提取码：xpd6</p>
+<h5 id="穹顶之下"><a href="#穹顶之下" class="headerlink" title="穹顶之下"></a>穹顶之下</h5><p>链接：<a href="https://pan.baidu.com/s/1JZ1RSXg2-u5GEZ_7iLVW9A" target="_blank" rel="noopener">https://pan.baidu.com/s/1JZ1RSXg2-u5GEZ_7iLVW9A</a><br>提取码：t3g5</p>
+<h4 id="软件分享"><a href="#软件分享" class="headerlink" title="软件分享"></a>软件分享</h4><h5 id="office2010"><a href="#office2010" class="headerlink" title="office2010"></a>office2010</h5><p>链接：<a href="https://pan.baidu.com/s/1fQ8zoLgjKHT66OiTgaHa_g" target="_blank" rel="noopener">https://pan.baidu.com/s/1fQ8zoLgjKHT66OiTgaHa_g</a><br>提取码：tog2</p>
+<h5 id="红笔题库"><a href="#红笔题库" class="headerlink" title="红笔题库"></a>红笔题库</h5><p>链接：<a href="https://pan.baidu.com/s/1HI9yWzs_gYF5VjnUOCytgg" target="_blank" rel="noopener">https://pan.baidu.com/s/1HI9yWzs_gYF5VjnUOCytgg</a><br>提取码：iibi</p>
+<h4 id="教学视频分享"><a href="#教学视频分享" class="headerlink" title="教学视频分享"></a>教学视频分享</h4><h5 id="小黑2019年9月份全程班整理版二级office"><a href="#小黑2019年9月份全程班整理版二级office" class="headerlink" title="小黑2019年9月份全程班整理版二级office"></a>小黑2019年9月份全程班整理版二级office</h5><p>链接：<a href="https://pan.baidu.com/s/1o1xZ2wI2xY5KiDPoUJK8dA" target="_blank" rel="noopener">https://pan.baidu.com/s/1o1xZ2wI2xY5KiDPoUJK8dA</a><br>提取码：jsfb </p>
+<h5 id="CDA数据分析就业班29期"><a href="#CDA数据分析就业班29期" class="headerlink" title="CDA数据分析就业班29期"></a>CDA数据分析就业班29期</h5><p>链接：<a href="https://pan.baidu.com/s/1cXZBd5dX_QVduOxcPX8FoQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1cXZBd5dX_QVduOxcPX8FoQ</a><br>提取码：zmly </p>
+<h5 id="用Power-MapPivot玩转数据化运营"><a href="#用Power-MapPivot玩转数据化运营" class="headerlink" title="用Power MapPivot玩转数据化运营"></a>用Power MapPivot玩转数据化运营</h5><p>链接：<a href="https://pan.baidu.com/s/16HFhmysMHRQ5yKGoxI_Beg" target="_blank" rel="noopener">https://pan.baidu.com/s/16HFhmysMHRQ5yKGoxI_Beg</a><br>提取码：kyrp </p>
+<h4 id="书荐"><a href="#书荐" class="headerlink" title="书荐"></a>书荐</h4><ul>
+<li>《定本酒田战法》（日）林辉太郎；</li>
+<li>《行情之神本间宗久翁秘录》 （日）森生文乃；</li>
+<li>《日本蜡烛图技术》（美）史蒂·夫尼森 ；</li>
+<li>《趋势交易》（美）安德烈亚斯 F. 克列诺；</li>
+<li>《外汇交易的10堂必修课》（美）马丁·内斯；</li>
+<li>《外汇交易：高手训练营》 （美）埃德·蓬西；</li>
+<li>《高胜算操盘》 （美）马塞尔·林克；</li>
+<li>《专业投机原理》（美）维克托·斯波朗迪；</li>
+<li>《大投机家：八十年投机交易回忆录》（德）安德烈·科斯托拉尼</li>
+<li>《漫步华尔街》 伯顿·马尔基尔</li>
+<li>《股市长线法宝》（Stocks for the Long Run）杰里米.j.西格尔，沃顿金融学教授</li>
+<li>《投资者的未来》（The Future for investors）  杰里米.j.西格尔，沃顿金融学教授</li>
+<li>《战胜华尔街》（Beating the street）彼得林奇</li>
+<li>《投资心理学》（The psychology of Investing）John R,Nofsinger</li>
+<li>《黑天鹅》和《反脆弱》纳西姆.尼古拉斯.塔勒布</li>
+<li>《大国大城》陆铭</li>
+<li>《经济学原理》张维迎</li>
+<li>《吴晓波企业史》</li>
+<li>《期货市场技术分析》</li>
+<li>《股票作手回忆录》</li>
+<li>《笑傲股市》</li>
+<li>《人间失格》</li>
+<li>白银：《 Javascript高级程序设计》</li>
+<li>铂金：《ES6标准入门》</li>
+<li>砖石：《你不知道的JS》</li>
+<li>1368个单词就够了 王乐平<h4 id="软荐"><a href="#软荐" class="headerlink" title="软荐"></a>软荐</h4>猎影下载器 vivaldi 知之阅读   fences   NoteExpress   Gingko   iA writter   Lightkey Business Edition   smart pdf    Fiddler   wireshark    WIN10 manager     Quicker   Cute Http File Server     handshaker    冰点下载<h4 id="研荐"><a href="#研荐" class="headerlink" title="研荐"></a>研荐</h4><h5 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h5><h6 id="数学一、二、三复习用书"><a href="#数学一、二、三复习用书" class="headerlink" title="数学一、二、三复习用书"></a>数学一、二、三复习用书</h6>高数:武忠祥、张宇（基础好）、汤家凤（基础差）<br>  高数教材：《高等数学》——同济⑦版；<br>线代:李永乐<br>  线代教材：《线性代数》——同济⑥版；<br>概率论:方浩、余丙森、王式安<br>  概率教材：《概率论与数理统计》——浙大④版<br>  复习全书类（强化用)推荐：<pre><code>  《数学复习全书》——李永乐+王式安；
+  《线性代数辅导讲义》——李永乐；
+  《考研数学复习大全》——汤家凤
+  《高数18讲》——张宇
+  《复习全书》——李正元+范培华
+  《复习指南》——陈文灯+黄先开</code></pre>  真题、习题、模拟题类（强化+冲刺用）：<br>  搭配强化课用<pre><code>  李永乐+王式安《数学基础过关660题》
+  张宇《考研数学题源探析经典1000题》　
+  汤家凤《考研数学接力题典1800题》</code></pre>  真题类：<pre><code>  《数学历年真题解析》——李永乐+王式安；
+  《考研数学历年真题全解析》——汤家凤
+  《考研数学历年真题大全解》——张宇</code></pre>  模拟类：<pre><code>  《终极预测最后八套卷》——张宇；
+  《最后四套卷》——张宇；
+  《汤家凤绝对考场最后八套题》——汤家凤；
+  《合工大最后5套题》——合工大；
+  《李永乐数学决胜冲刺6+2》——李永乐</code></pre>  复习全书最少刷2遍<br>  对于冲刺阶段刷题可以选择基础过关660题,接力题典1800题，张宇6套卷，4套卷。<h5 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h5>  7月份到11月之前，徐涛强化班＋精讲精练（或核心考案）<br>  肖秀荣老师，最后的点睛班和面授班<br>  1000题要做两遍以上(每看完一章视频做一章题)<br>  11月初出版肖8，可以当做检验一下选择题，以及选择题的预测<br>  12月初出版肖4，背<br>  政治复习用书<pre><code>  复习全书类（基础+强化用）最为推荐的依次有：
+      肖秀荣《考研政治命题人知识点精讲精练》
+      徐涛《政治核心考案》
+      蒋中挺《考研思想政治理论复习全书》
+      徐之明《考研思想政治理论红宝书》
+      思想政治理论考试大纲解析
+  真题类（全程用）最为推荐的依次有：
+      《命题人讲真题》——肖秀荣；
+      《历年真题详解》——蒋中挺；
+      《历年真题标准解析》——高教社；
+      《历年真题解析及复习思路》——石磊；
+      《真题精解》——任汝芬
+  训练类（强化用）最为推荐的依次有：
+      肖秀荣《命题人1000题》
+      徐涛《通关优题库习题版》
+      腿姐《刷题计划》
+      蒋中挺《考研思想政治理论强化通关800题》
+      任燕翔《考研政治强化特训1200题》
+      王吉《考研思想政治必刷1500题》
+   背诵宝典类（冲刺用）最为推荐的依次有：
+      《主观题应试宝典》—任燕翔
+      《肖秀荣考点预测背诵版》
+      《肖秀荣知识点提要》
+      《考研政治冲刺笔记》—徐涛
+      《风中劲草核心考点》—杨杰
+      《冲刺背诵手册》—腿姐
+      《冲刺考点必备》—蒋中挺
+      《命题人形式与政策以及当代世界经济与政治》—肖秀荣
+      《考研思想政治理论形势与政策热点剖析及命题预测》—蒋中挺
+      《形式与政策大预测》—米鹏
+  最后预测题类（押题类）最为推荐的依次有：
+      《肖秀荣最后8套卷》
+      《肖秀荣最后4套卷》
+      《命题人终极八套卷》—徐涛
+      《考研政治考前预测必备20题》（小黄书）—徐涛
+      《考研政治冲刺预测4套卷》—腿姐
+      《考前预测4套卷》—任燕翔
+      《冲刺模拟6套卷》—米鹏
+      《考研政治绝对考场最后五套题》—蒋中挺
+      启航的20天20题</code></pre><h5 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h5>基础阶段背单词+理解长难句<br>推荐词汇书《红宝书》、《十天搞定考研词汇》<br>长难句:老蒋、刘晓燕、唐迟<h6 id="英语一复习用书"><a href="#英语一复习用书" class="headerlink" title="英语一复习用书"></a>英语一复习用书</h6></li>
+</ul>
+<ol>
+<li><p>单词类（全程用）最为推荐的依次有：<br>《何凯文1575必考词汇突破全书》——何凯文；<br>《恋练5500》——朱伟；<br>《新东方考研英语词汇词根+联想记忆法》——新东方，有两种，红色和绿色，分别为顺序和乱序的；<br>《刘一男考研词汇5500词》——刘一男；<br>《考研英语词汇红宝书》——西北大学出版社；<br>《星火单词系列》——星火英语；</p>
+</li>
+<li><p>记单词软件推荐的有：<br>墨墨背单词，百词斩；扇贝；开心词场</p>
+</li>
+<li><p>真题类（强化用）最为推荐的依次有<br>《张剑黄皮书真题系列》——张剑；<br>《何凯文历年真题全解析》——何凯文；<br>《考研英语历年真题详解及复习指南》——新东方<br>《考研真相》——西北大学出版社；<br>《陈正康真题超精读》——陈正康；<br>《考研英语历年真题超精解》——丁晓钟</p>
+</li>
+<li><p>阅读类最为推荐的依次有：<br>《张剑黄皮书阅读150篇》——张剑；<br>《何凯文英语阅读思路解析》——何凯文；<br>《考研英语同源阅读80篇》——陈正康；</p>
+</li>
+<li><p>作文类（强化+冲刺用）最为推荐的依次有：<br>《考研英语写作高分攻略》——何凯文；<br>《王江涛写作辅导系列》——王江涛；<br>《张剑黄皮书写作系列》——张剑；<br>《考研英语写作通关66篇》——高教版，陈正康主编；<br>《考研英语写作160篇》——西北大学出版社</p>
+<h6 id="英语二复习用书-可参考英语一的用）"><a href="#英语二复习用书-可参考英语一的用）" class="headerlink" title="英语二复习用书(可参考英语一的用）"></a>英语二复习用书(可参考英语一的用）</h6></li>
+<li><p>单词类最为推荐的依次有：<br>单词类最为推荐的参考书和软件同英语一，外加《老蒋绿皮书讲词汇》</p>
+</li>
+<li><p>真题类最为推荐的依次有：<br>《老蒋绿皮书讲真题》——蒋军虎；<br>《张剑黄皮书真题系列》——张剑；<br>《考研英语历年真题超精解》——丁晓钟</p>
+</li>
+<li><p>阅读类最为推荐的依次有：<br>《高分阅读老蒋80篇》——蒋军虎；<br>《张剑黄皮书阅读150篇》——张剑；<br>《考研英语同源阅读80篇》——陈正康</p>
+</li>
+<li><p>作文类最为推荐的依次有：<br>《老蒋绿皮书讲作文》——蒋军虎；<br>《张剑黄皮书写作系列》——张剑；<br>《考研英语写作通关66篇》——高教版，陈正康<br> 单词网课推荐朱伟老师;<br> 阅读网课推荐唐迟;<br> 语法和长难句说下推荐田静和刘晓燕，侧重于刘晓燕;<br> 翻译网课推荐唐静，注重翻译重点与关键;<br> 作文网课推荐有王江涛，张国静,朱伟作文辞藻华丽，水平很高，实战考研用的比较多，不建议完全背诵，学习写作套路即可，商志最后的一对一模板，每年价格500到600左右，可以留作最后的参考。<br> 商志，英语一二通吃的老师，课很细很细，干货超多，他的传奇背词班，覆盖单词，语法，写作，很适合基础很差的学生学习，建议就是下载下来倍速播放，做好笔记，干货很多。</p>
+<p> 书籍：</p>
+<pre><code> 词汇：推荐绿皮书，红宝书，恋恋有词;
+ 真题：推荐黄皮书，考研真想，考研圣经</code></pre></li>
+</ol>
+<p>建议基础学习内容：linux、kali linux以及系统漏洞和脚本安全的深入了解。<br>建议编程学习内容：PHP、python。<br>渗透测试知识技术说多不多，学来学去就是那么多东西，说少也不少，各方面都要学习，重要的是思路的扩展升级。强烈建议每一种漏洞在各种环境下反复试验增加记忆和熟练度。<br>简单概括下来有：信息安全（建议深入学习社会工程学、密码学），系统安全，应用安全目前流行的是防火墙waf的绕过，内网安全的渗透与防御，CTF红蓝的练习，黑盒白盒测试环境的思路极为重要。<br>2020年了不再是一眼能看出的简单漏洞了，若是传统性的进行渗透测试，那么自身是提高不了多少的。网络上的课程大同小异教程里都是基本操作登不上大雅之堂，自己闷头苦学苦思只会落后，跟上时代的发展，多去找大佬学习交流，或者到知名培训机构修炼渡劫。 </p>
+]]></content>
       <categories>
-          
-          <category> NaiveSakura的宝藏 </category>
-          
-          <category> 墨上三香的宝藏 </category>
-          
+        <category>NaiveSakura的宝藏</category>
+        <category>墨上三香的宝藏</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 任意门 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>墨语录</title>
-      <link href="/2020/07/18/2020-80-51yuLu/"/>
-      <url>/2020/07/18/2020-80-51yuLu/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h1 id="喜欢≠爱"><a href="#喜欢≠爱" class="headerlink" title="喜欢≠爱"></a>喜欢≠爱</h1><p>爱不等同于与喜欢，喜欢不等于爱。喜欢与爱是从来就不是一个层次的词，对一个人或事物感兴趣是喜欢，而爱是对一个人或某事物具有很深的感情。喜欢会转变为爱，爱也会变为喜欢。此间世，喜欢的人可以有许多，甚至可以数不尽，反观爱，却只能很少，甚至可以没有，爱是奢侈品，喜欢是廉价品，，这对词的组合好似英文中love与beloved的差距。因为爱，所有可以深爱；因为喜欢，所以可以泛滥。正因如此，我可以说我喜欢很多人，但爱却未敢轻易说出。</p><h1 id="RECORED"><a href="#RECORED" class="headerlink" title="RECORED"></a>RECORED</h1><p>很多时候，我都会思考自己一直以来对于它人的感情是出于喜欢还是爱，还是仅仅的自我满足，我会时不时记下自己的一些想法，我想知道答案。作为母胎SOLO的我来说，我并不是很懂什么爱情，但即便如此，我依旧希望记下他们，希冀从中得到些许线索。。。</p><p>我还是喜欢你，至始无终–8102.50.11</p><p>缓缓抬起头，迈向了必须面对现实，窗外依旧飘着小雪，形形色色的人蜷缩着走在雪中，白皑皑的雪飘着飘着，真美啊，平生第一次见雪，原来是这个样子，如同忘却了现世的烦恼，站着发了呆，如果是和最喜欢的人共赏这美景该有多好啊，只是，只是，令人欢喜的人却并不在，现实也许并不那么美好吧。</p><p>摘抄：<br>1、不要着急，最好的总会在不经意的时候出现。那我们要做的就是：怀揣希望去努力，静待美好的出现。<br>2、不要羡慕别人比你成熟。那是因为，一路走来，他们遇见的坏人比你多。<br>3、好多话忍着憋着，后来就懒得说了。好多事失望多了，后来就不在意了。<br>4、熬得住就出众，熬不住就出局，相信糟糕的日子熬过去了，剩下的就是好运气。<br>5、未曾清贫难做人，不经打击永天真。成熟不过是善于隐藏，沧桑不过是无泪有伤。<br>6、原来合适的人，不是你拼命去追赶的人。而是在你累的时候，愿意拉着你一起走的人。<br>7、要多多努力，好好生活，做一个可爱的人，做一个闪闪发光的人，不将就，不依赖。<br>8、世界上最可怕的二个词，一个叫执着，一个叫认真，认真的人改变自己，执着的人改变命运。<br>9、对自己的方式，就是别人看待你的方式。对自己好点，别给自己设置太多假想敌。<br>10、别和我说对不起，对不起只能换来你的安心，而非我的释然。</p><p>喜欢是你，欢喜亦是你<br>在众人中试图寻找到你的身影，却无奈，无法找寻到， 慕的，才发现感去了什么，我仿佛陷入了无尽的自责，失去了，失去了，那以你为基的产生之物，我失去了你所给予的-那我最重视之物。——9102.9.1.10:54<br>子不语，君不知；子语，君亦不复。</p><p>摘抄：9102.5.25 18：35<br>时间是审查一切犯罪的最老练的法官—莎士比亚<br>不论是多么天衣无缝的犯罪，只要是人做的，就没有解不开的道理—阿瑟·柯南·道尔《福尔摩斯全集》<br>在孤独中，孤独者将自己吃得一干二净。而在群体中，他被众人吃掉。–尼采《人性的，太人性的》<br>人生没有目的，只有过程，所谓的终极目的是虚无的。–尼采《查拉图斯特拉如是说》<br>除去不可能的剩下的即使再不可能，那也是真想–阿瑟·柯南·道尔《福尔摩斯全集》<br>人生而自由，这种自由是选择的自由。–萨特<br>一切过往，皆是序章—莎士比亚《暴风雨》<br>白昼之光，岂知夜色之深–尼采《查拉图斯特拉如是说》<br>初见是温柔，再见是温柔过了头–9102.6.9 9：09<br>如果可以，谁又会选择坚强<br>好像再也喜欢不了一个人了，失去了什么呢？？？ 2019-10-6<br>学而不用视为无用；用则变，变则通。<br>结合实际，社会制度不同，市场自由度不可通论<br>不是为了越走越远，而是为了越走越好。爱情终究不过是奢侈品，毕竟烂大街的东西谁要啊！爱情是两个的人的游戏，不是一个人的狂欢，少数人拥有的是爱情，绝大多数的人都是走在了寻找爱情的路上，我并非不赞同这些寻找爱情的人，毕竟正因为这些人的存在，世界才如此有趣儿，不过真心希望这些人不要走着走着就散了罢了。 –0202 14/03 61：7</p><p>有个地方想去，有个人想见 – 0202/80/90</p><p>你总说舔狗做不得，可是，你知道吗？如果不努力，你连舔狗都做不了呢！  –2020/08/90</p><p>世界很烂，所幸，有你在 2020/08/51</p><!-- 毫无价值的文字堆砌~~    想和师傅聊点什么，却发现其实我和师傅之间原来并没有什么共同话题。你问我喜欢师傅你吗，我想答案是肯定喜欢的，但是我眼中的喜欢与师傅眼中的喜欢想必是有些许不同的吧。许久之前我还在想我是否可以说是真的喜欢师傅呢，还是说我说喜欢我师傅是因为好奇？同理心？亦或惺惺相惜的感情？又或许个人对重庆的向往？但至少这些都不能算是喜欢吧。时至今日我才想起，我对它人的喜欢是什么，或许是太久未曾遇见喜欢的人了，我竟忘了于我而言何为喜欢，真是既可笑又可悲。对于我来说，喜欢一个人，就是希望它能够多点开心，少点烦忧，只要喜欢的人是开心，我或许就满足了吧！所以，师傅也要开开心心的呀!喜欢是需要与能力和责任相配的，如果无法让喜欢的人得到想从你身上得到的，那为何还要强求，不是更会让自己喜欢的人不开心吗，若是希望自己喜欢的人的开心的话,放手从来都是最好的选择。好似我一开始就希望得到师傅找男朋友的理由是什么的答案一样，但我从却未知道，或许这个问题，正如问我为何喜欢师傅你一样从未有过答案吧。。。倘若未曾记错的话师傅也应马上要高考了吧，那就祝师傅考试顺利，金榜题名吧！    安！ --><!-- 抱歉，明明知道这样的思考是毫无意义的，却依旧无法停止，我不知道我这样的思考除了带来无尽的悲伤之外还能带来什么。原来，我连竞争的资格都没有啊，真是可笑呢。如果是异地恋的话，我想，行为上是可以做到的，可是内心却是煎熬的。肉体终究是被迫的，无意识的，是被动的活着罢了，内心呢？是如此痛苦啊，痛苦在于不是能不能和你所爱之人时时刻刻在一起，而是想到自己无法陪伴在自己爱的人的身边，无法陪伴她每一个重要的节日，无法在她难过时安慰她，无法在她生病时照料她，无法在她遇到困难是帮助她，只能在远端看着她生病，看着她难过，看着他独自面对所有的一切，而自己却仿佛置身事外般，这些才是痛苦的源头。这样的我还有资格做她的伴侣吗？我想是没有资格的吧， --><p>很多时候,我们都无法分辨喜欢与爱,因为它们的概念早就在众人的眼中变得不可辩了,习惯了喜欢与爱的糅合便不再去争辩二者之差了。</p>]]></content>
-      
-      
+      <tags>
+        <tag>任意门</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>墨语录</title>
+    <url>/2020/07/18/yuLu/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h1 id="喜欢≠爱"><a href="#喜欢≠爱" class="headerlink" title="喜欢≠爱"></a>喜欢≠爱</h1><p>爱不等同于与喜欢，喜欢不等于爱。喜欢与爱是从来就不是一个层次的词，对一个人或事物感兴趣是喜欢，而爱是对一个人或某事物具有很深的感情。喜欢会转变为爱，爱也会变为喜欢。此间世，喜欢的人可以有许多，甚至可以数不尽，反观爱，却只能很少，甚至可以没有，爱是奢侈品，喜欢是廉价品，，这对词的组合好似英文中love与beloved的差距。因为爱，所有可以深爱；因为喜欢，所以可以泛滥。正因如此，我可以说我喜欢很多人，但爱却未敢轻易说出。</p>
+<h1 id="RECORED"><a href="#RECORED" class="headerlink" title="RECORED"></a>RECORED</h1><p>很多时候，我都会思考自己一直以来对于它人的感情是出于喜欢还是爱，还是仅仅的自我满足，我会时不时记下自己的一些想法，我想知道答案。作为母胎SOLO的我来说，我并不是很懂什么爱情，但即便如此，我依旧希望记下他们，希冀从中得到些许线索。。。</p>
+<p>我还是喜欢你，至始无终–8102.50.11</p>
+<p>缓缓抬起头，迈向了必须面对现实，窗外依旧飘着小雪，形形色色的人蜷缩着走在雪中，白皑皑的雪飘着飘着，真美啊，平生第一次见雪，原来是这个样子，如同忘却了现世的烦恼，站着发了呆，如果是和最喜欢的人共赏这美景该有多好啊，只是，只是，令人欢喜的人却并不在，现实也许并不那么美好吧。</p>
+<p>摘抄：<br>1、不要着急，最好的总会在不经意的时候出现。那我们要做的就是：怀揣希望去努力，静待美好的出现。<br>2、不要羡慕别人比你成熟。那是因为，一路走来，他们遇见的坏人比你多。<br>3、好多话忍着憋着，后来就懒得说了。好多事失望多了，后来就不在意了。<br>4、熬得住就出众，熬不住就出局，相信糟糕的日子熬过去了，剩下的就是好运气。<br>5、未曾清贫难做人，不经打击永天真。成熟不过是善于隐藏，沧桑不过是无泪有伤。<br>6、原来合适的人，不是你拼命去追赶的人。而是在你累的时候，愿意拉着你一起走的人。<br>7、要多多努力，好好生活，做一个可爱的人，做一个闪闪发光的人，不将就，不依赖。<br>8、世界上最可怕的二个词，一个叫执着，一个叫认真，认真的人改变自己，执着的人改变命运。<br>9、对自己的方式，就是别人看待你的方式。对自己好点，别给自己设置太多假想敌。<br>10、别和我说对不起，对不起只能换来你的安心，而非我的释然。</p>
+<p>喜欢是你，欢喜亦是你<br>在众人中试图寻找到你的身影，却无奈，无法找寻到， 慕的，才发现感去了什么，我仿佛陷入了无尽的自责，失去了，失去了，那以你为基的产生之物，我失去了你所给予的-那我最重视之物。——9102.9.1.10:54<br>子不语，君不知；子语，君亦不复。</p>
+<p>摘抄：9102.5.25 18：35<br>时间是审查一切犯罪的最老练的法官—莎士比亚<br>不论是多么天衣无缝的犯罪，只要是人做的，就没有解不开的道理—阿瑟·柯南·道尔《福尔摩斯全集》<br>在孤独中，孤独者将自己吃得一干二净。而在群体中，他被众人吃掉。–尼采《人性的，太人性的》<br>人生没有目的，只有过程，所谓的终极目的是虚无的。–尼采《查拉图斯特拉如是说》<br>除去不可能的剩下的即使再不可能，那也是真想–阿瑟·柯南·道尔《福尔摩斯全集》<br>人生而自由，这种自由是选择的自由。–萨特<br>一切过往，皆是序章—莎士比亚《暴风雨》<br>白昼之光，岂知夜色之深–尼采《查拉图斯特拉如是说》<br>初见是温柔，再见是温柔过了头–9102.6.9 9：09<br>如果可以，谁又会选择坚强<br>好像再也喜欢不了一个人了，失去了什么呢？？？ 2019-10-6<br>学而不用视为无用；用则变，变则通。<br>结合实际，社会制度不同，市场自由度不可通论<br>不是为了越走越远，而是为了越走越好。爱情终究不过是奢侈品，毕竟烂大街的东西谁要啊！爱情是两个的人的游戏，不是一个人的狂欢，少数人拥有的是爱情，绝大多数的人都是走在了寻找爱情的路上，我并非不赞同这些寻找爱情的人，毕竟正因为这些人的存在，世界才如此有趣儿，不过真心希望这些人不要走着走着就散了罢了。 –0202 14/03 61：7</p>
+<p>有个地方想去，有个人想见 – 0202/80/90</p>
+<p>你总说舔狗做不得，可是，你知道吗？如果不努力，你连舔狗都做不了呢！  –2020/08/90</p>
+<p>世界很烂，所幸，有你在 2020/08/51</p>
+<!-- 毫无价值的文字堆砌~~
+    想和师傅聊点什么，却发现其实我和师傅之间原来并没有什么共同话题。你问我喜欢师傅你吗，我想答案是肯定喜欢的，但是我眼中的喜欢与师傅眼中的喜
+欢想必是有些许不同的吧。许久之前我还在想我是否可以说是真的喜欢师傅呢，还是说我说喜欢我师傅是因为好奇？同理心？亦或惺惺相惜的感情？又或许个人对重庆的向往？但至少这些都不能算是喜欢吧。时至今日我才想起，我对它人的喜欢是什么，或许是太久未曾遇见喜欢的人了，我竟忘了于我而言何为喜欢，真是既可笑又可悲。对于我来说，喜欢一个人，就是希望它能够多点开心，少点烦忧，只要喜欢的人是开心，我或许就满足了吧！所以，师傅也要开开心心的呀!喜欢是需要与能力和责任相配的，如果无法让喜欢的人得到想从你身上得到的，那为何还要强求，不是更会让自己喜欢的人不开心吗，若是希望自己喜欢的人的开心的话,放手从来都是最好的选择。好似我一开始就希望得到师傅找男朋友的理由是什么的答案一样，但我从却未知道，或许这个问题，正如问我为何喜欢师傅你一样从未有过答案吧。。。倘若未曾记错的话师傅也应马上要高考了吧，那就祝师傅考试顺利，金榜题名吧！
+    安！ -->
+
+
+
+
+
+
+
+<!-- 
+抱歉，
+明明知道这样的思考是毫无意义的，却依旧无法停止，我不知道我这样的思考除了带来无尽的悲伤之外还能带来什么。
+原来，我连竞争的资格都没有啊，真是可笑呢。
+
+如果是异地恋的话，我想，行为上是可以做到的，可是内心却是煎熬的。肉体终究是被迫的，无意识的，是被动的活着罢了，内心呢？是如此痛苦啊，痛苦在于不是能不能和你所爱之人时时刻刻在一起，而是想到自己无法陪伴在自己爱的人的身边，无法陪伴她每一个重要的节日，无法在她难过时安慰她，无法在她生病时照料她，无法在她遇到困难是帮助她，只能在远端看着她生病，看着她难过，看着他独自面对所有的一切，而自己却仿佛置身事外般，这些才是痛苦的源头。这样的我还有资格做她的伴侣吗？我想是没有资格的吧，
+
+ -->
+
+<p>很多时候,我们都无法分辨喜欢与爱,因为它们的概念早就在众人的眼中变得不可辩了,习惯了喜欢与爱的糅合便不再去争辩二者之差了。</p>
+]]></content>
       <categories>
-          
-          <category> 墨上三香的语录 </category>
-          
+        <category>墨上三香的语录</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 语录 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>返利优惠APP安利</title>
-      <link href="/2020/04/30/profit-return-app-amway/"/>
-      <url>/2020/04/30/profit-return-app-amway/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h2 id="返利优惠是什么"><a href="#返利优惠是什么" class="headerlink" title="返利优惠是什么"></a>返利优惠是什么</h2><p>返利说白了就是卖家为了提高自己的销量而进行的一定折让。</p><h2 id="销量为王"><a href="#销量为王" class="headerlink" title="销量为王"></a>销量为王</h2><p>在这个互联网时代销量对于线上卖家的重要性是不言而喻的，没有销量，生产的产品就是死路一条，不怕卖的便宜，就怕卖不出去，量变产生质变，一旦滞销，商家面临的压力必然是巨大的。</p><h2 id="返利优惠平台的出现"><a href="#返利优惠平台的出现" class="headerlink" title="返利优惠平台的出现"></a>返利优惠平台的出现</h2><p>如果一个卖家进行折扣销售，单靠卖家自身肯定无法对自身的产品实现销量最大化，这时候一个平台的重要性就凸显的淋漓尽致。平台必然是资源集中整合化，在互联网中存在天然优势。</p><h2 id="返利优惠平台有哪些"><a href="#返利优惠平台有哪些" class="headerlink" title="返利优惠平台有哪些"></a>返利优惠平台有哪些</h2><p>市面上返利平台有许多阿里旗下<a href="https://www.etao.com/" target="_blank" rel="noopener">一淘网</a>,京东旗下芬香，但是我更推荐大家使用<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a></p><h2 id="为什么是快鸟返利"><a href="#为什么是快鸟返利" class="headerlink" title="为什么是快鸟返利"></a>为什么是<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利</a></h2><h3 id="快鸟返利App是什么"><a href="#快鸟返利App是什么" class="headerlink" title="快鸟返利App是什么"></a><a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a>是什么</h3><p><a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a>由<a href="https://www.onecan.top/" target="_blank" rel="noopener">宁波意赋科技有限公司</a>开发运营，<del>啥？你没听过这个公司？插断记录:<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻APP</a>开发运营者，哈？你说<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>凉了？安啦，只是暂时下架了，会回来的，<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>团队凭借其优秀的内容社区管理能力为用户提供了一个优质的社区生态环境，黏合了大量的用户，对于<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>用户来说，那儿就是他们的家般<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>，在<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>下架的时间里，许多即刻用户在<a href="https://weibo.com/678438727?profile_ftype=1&is_all=1#_0" target="_blank" rel="noopener">瓦恁</a>的微博下诉说着对<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>的热爱，在<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>消失的时间内，<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>团队并没有偷懒，相反，他们开发了<a href="https://h5.jellow.site/jellow-invite#/form/5d4ad2c3b153310af9df70ee/survey?jk=9210351e" target="_blank" rel="noopener">jellow</a>来暂替<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>的消失,目前的<a href="https://h5.jellow.site/jellow-invite#/form/5d4ad2c3b153310af9df70ee/survey?jk=9210351e" target="_blank" rel="noopener">jellow</a>处于内测中且同步了<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>的用户数据，收购了<a href="http://www.jijigugu.club/" target="_blank" rel="noopener">一罐</a>,同时他们也开发了两款脱单软件<a href="https://www.orangelovely.com/" target="_blank" rel="noopener">橙APP</a>和Comeet，小宇宙app,以及本次推荐的<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a>。统称<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>宇宙</del>。<br>快鸟返利是一款兼省钱与赚钱为一体的导购APP，在淘宝拼多多京东等平台下单前，打开快鸟APP获得商品优惠券，优惠购买的同时还能拿到返现佣金。推荐APP给好友使用，每一次好友成功购物，你都可以获得奖励分成。用户购买商品时产生的佣金将流向3个部分：淘宝联盟等平台服务费（10%）、快鸟优秀用户激励费用（5%）以及用户返现。快鸟平台不参与商品佣金分成，所有的佣金都花在用户身上。并且点饿了么都有返利<del>（是的点外卖也有返利哦）</del>，每天点外卖都能省几块钱，淘宝、京东好多平台都能返，太厉害了！<br>你可以下载试试：<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">https://zz.nbdisco.com/download?code=5TC4F</a></p><p><img src="/2020/04/30/profit-return-app-amway/9.jpg" alt="图1" loading="lazy"><br><img src="/2020/04/30/profit-return-app-amway/10.jpg" alt="图2" loading="lazy"></p>]]></content>
-      
-      
+      <tags>
+        <tag>语录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>返利优惠APP安利</title>
+    <url>/2020/04/30/profit-return-app-amway/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h2 id="返利优惠是什么"><a href="#返利优惠是什么" class="headerlink" title="返利优惠是什么"></a>返利优惠是什么</h2><p>返利说白了就是卖家为了提高自己的销量而进行的一定折让。</p>
+<h2 id="销量为王"><a href="#销量为王" class="headerlink" title="销量为王"></a>销量为王</h2><p>在这个互联网时代销量对于线上卖家的重要性是不言而喻的，没有销量，生产的产品就是死路一条，不怕卖的便宜，就怕卖不出去，量变产生质变，一旦滞销，商家面临的压力必然是巨大的。</p>
+<h2 id="返利优惠平台的出现"><a href="#返利优惠平台的出现" class="headerlink" title="返利优惠平台的出现"></a>返利优惠平台的出现</h2><p>如果一个卖家进行折扣销售，单靠卖家自身肯定无法对自身的产品实现销量最大化，这时候一个平台的重要性就凸显的淋漓尽致。平台必然是资源集中整合化，在互联网中存在天然优势。</p>
+<h2 id="返利优惠平台有哪些"><a href="#返利优惠平台有哪些" class="headerlink" title="返利优惠平台有哪些"></a>返利优惠平台有哪些</h2><p>市面上返利平台有许多阿里旗下<a href="https://www.etao.com/" target="_blank" rel="noopener">一淘网</a>,京东旗下芬香，但是我更推荐大家使用<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a></p>
+<h2 id="为什么是快鸟返利"><a href="#为什么是快鸟返利" class="headerlink" title="为什么是快鸟返利"></a>为什么是<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利</a></h2><h3 id="快鸟返利App是什么"><a href="#快鸟返利App是什么" class="headerlink" title="快鸟返利App是什么"></a><a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a>是什么</h3><p><a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a>由<a href="https://www.onecan.top/" target="_blank" rel="noopener">宁波意赋科技有限公司</a>开发运营，<del>啥？你没听过这个公司？插断记录:<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻APP</a>开发运营者，哈？你说<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>凉了？安啦，只是暂时下架了，会回来的，<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>团队凭借其优秀的内容社区管理能力为用户提供了一个优质的社区生态环境，黏合了大量的用户，对于<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>用户来说，那儿就是他们的家般<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>，在<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>下架的时间里，许多即刻用户在<a href="https://weibo.com/678438727?profile_ftype=1&is_all=1#_0" target="_blank" rel="noopener">瓦恁</a>的微博下诉说着对<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>的热爱，在<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>消失的时间内，<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>团队并没有偷懒，相反，他们开发了<a href="https://h5.jellow.site/jellow-invite#/form/5d4ad2c3b153310af9df70ee/survey?jk=9210351e" target="_blank" rel="noopener">jellow</a>来暂替<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>的消失,目前的<a href="https://h5.jellow.site/jellow-invite#/form/5d4ad2c3b153310af9df70ee/survey?jk=9210351e" target="_blank" rel="noopener">jellow</a>处于内测中且同步了<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>的用户数据，收购了<a href="http://www.jijigugu.club/" target="_blank" rel="noopener">一罐</a>,同时他们也开发了两款脱单软件<a href="https://www.orangelovely.com/" target="_blank" rel="noopener">橙APP</a>和Comeet，小宇宙app,以及本次推荐的<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">快鸟返利App</a>。统称<a href="https://www.onecan.top/" target="_blank" rel="noopener">即刻</a>宇宙</del>。<br>快鸟返利是一款兼省钱与赚钱为一体的导购APP，在淘宝拼多多京东等平台下单前，打开快鸟APP获得商品优惠券，优惠购买的同时还能拿到返现佣金。推荐APP给好友使用，每一次好友成功购物，你都可以获得奖励分成。用户购买商品时产生的佣金将流向3个部分：淘宝联盟等平台服务费（10%）、快鸟优秀用户激励费用（5%）以及用户返现。快鸟平台不参与商品佣金分成，所有的佣金都花在用户身上。并且点饿了么都有返利<del>（是的点外卖也有返利哦）</del>，每天点外卖都能省几块钱，淘宝、京东好多平台都能返，太厉害了！<br>你可以下载试试：<a href="https://zz.nbdisco.com/download?code=5TC4F" target="_blank" rel="noopener">https://zz.nbdisco.com/download?code=5TC4F</a></p>
+<p><img src="/2020/04/30/profit-return-app-amway/9.jpg" alt="图1" loading="lazy"><br><img src="/2020/04/30/profit-return-app-amway/10.jpg" alt="图2" loading="lazy"></p>
+]]></content>
       <categories>
-          
-          <category> NaiveSakura的安利 </category>
-          
+        <category>NaiveSakura的安利</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 安利 </tag>
-            
-            <tag> APP </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>知识小记</title>
-      <link href="/2020/04/30/little-knowledge/"/>
-      <url>/2020/04/30/little-knowledge/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>for记录一些重要但是容易忘记的东西 </p><h2 id="经济的产生源于有限资源，无限欲望"><a href="#经济的产生源于有限资源，无限欲望" class="headerlink" title="经济的产生源于有限资源，无限欲望"></a>经济的产生源于有限资源，无限欲望</h2><p> 注：图源转载<br>          <img src="/2020/04/30/little-knowledge/01.png" alt="图1" loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/02.png" alt loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/03.jpg" alt loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/04.png" alt loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/05.jpg" alt loading="lazy"><br>1.本国劳动生产率提高(造出的东西越便宜)，本国货币升值。<br>2.本国货币贬值，刺激出口，旅游业的发展。<br>3.中国经济有严重的资本深化倾向，也就是说即便中国当前仍然是城市化刚过半的国家，我们的经济发展己经远远偏离了当前劳动力供给的状态，这就体现在一个“就业的GDP增长弹性”指标上:也也就足单位GDP增长创造的就业 。按照道理来讲，一个国家越发达，资本越便宜，劳动力相对来说越贵，它的单位GDP增长创造的就业就越低，而我们的这个指标甚至比那些较中国更加发达一些的发展中国家还要低。这个现象在哪里更严重呢？在中西部，西部的资本深化速度比东部还要快。   —大国大城 空间的力量：3M与3D </p>]]></content>
-      
-      
+      <tags>
+        <tag>安利</tag>
+        <tag>APP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>知识小记</title>
+    <url>/2020/04/30/little-knowledge/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>for记录一些重要但是容易忘记的东西 </p>
+<h2 id="经济的产生源于有限资源，无限欲望"><a href="#经济的产生源于有限资源，无限欲望" class="headerlink" title="经济的产生源于有限资源，无限欲望"></a>经济的产生源于有限资源，无限欲望</h2><p> 注：图源转载<br>          <img src="/2020/04/30/little-knowledge/01.png" alt="图1" loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/02.png" alt loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/03.jpg" alt loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/04.png" alt loading="lazy"><br>          <img src="/2020/04/30/little-knowledge/05.jpg" alt loading="lazy"><br>1.本国劳动生产率提高(造出的东西越便宜)，本国货币升值。<br>2.本国货币贬值，刺激出口，旅游业的发展。<br>3.中国经济有严重的资本深化倾向，也就是说即便中国当前仍然是城市化刚过半的国家，我们的经济发展己经远远偏离了当前劳动力供给的状态，这就体现在一个“就业的GDP增长弹性”指标上:也也就足单位GDP增长创造的就业 。按照道理来讲，一个国家越发达，资本越便宜，劳动力相对来说越贵，它的单位GDP增长创造的就业就越低，而我们的这个指标甚至比那些较中国更加发达一些的发展中国家还要低。这个现象在哪里更严重呢？在中西部，西部的资本深化速度比东部还要快。   —大国大城 空间的力量：3M与3D </p>
+]]></content>
       <categories>
-          
-          <category> NaiveSakura的知识分享 </category>
-          
+        <category>NaiveSakura的知识分享</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 经济学 </tag>
-            
-            <tag> 小知识点 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2019/09/27/myfirstblog/"/>
-      <url>/2019/09/27/myfirstblog/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>##Blog??<br>   My first blog,know nothing！</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>经济学</tag>
+        <tag>小知识点</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇博客</title>
+    <url>/2019/09/27/myfirstblog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>##Blog??<br>   My first blog,know nothing！</p>
+]]></content>
+  </entry>
 </search>
